@@ -9,8 +9,8 @@ export function Footer() {
           {/* Logo & Description */}
           <div className="md:col-span-2">
             <div className="flex items-center gap-3 mb-4">
-              <img src={logo} alt="Tu Comida Venezolana" className="h-12 w-12 object-contain" />
-              <span className="font-bold text-xl">Tu Comida Venezolana</span>
+              <img src={logo} alt="Restaurant Ok Cosecha" className="h-12 w-12 object-contain" />
+              <span className="font-bold text-xl">Restaurant Ok Cosecha</span>
             </div>
             <p className="text-secondary-foreground/70 max-w-sm">
               Arroz Chino y Tequeños con auténtico sabor venezolano. 
@@ -82,7 +82,7 @@ export function Footer() {
           </div>
 
           <p className="text-secondary-foreground/50 text-sm">
-            © {new Date().getFullYear()} Tu Comida Venezolana. Todos los derechos reservados.
+            © {new Date().getFullYear()} Restaurant Ok Cosecha. Todos los derechos reservados.
           </p>
         </div>
       </div>

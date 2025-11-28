@@ -39,7 +39,7 @@ export function AboutSection() {
               Sabor Venezolano con <span className="text-primary">Pasión</span>
             </h2>
             <p className="text-muted-foreground text-lg leading-relaxed">
-              En <strong className="text-foreground">Tu Comida Venezolana</strong>, 
+              En <strong className="text-foreground">Restaurant Ok Cosecha</strong>, 
               llevamos el auténtico sabor de nuestra tierra a tu mesa. 
               Nuestro arroz chino estilo venezolano y tequeños dorados son 
               preparados con recetas tradicionales y los ingredientes más frescos.

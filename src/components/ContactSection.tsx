@@ -11,10 +11,10 @@ const schedule = [
 ];
 
 const contactInfo = [
-  { icon: Phone, label: 'Teléfono', value: '+34 600 000 000', href: 'tel:+34600000000' },
-  { icon: MessageCircle, label: 'WhatsApp', value: '+34 600 000 000', href: 'https://wa.me/34600000000' },
-  { icon: Mail, label: 'Email', value: 'info@tucomidavenezolana.com', href: 'mailto:info@tucomidavenezolana.com' },
-  { icon: MapPin, label: 'Ubicación', value: 'Madrid, España', href: '#' },
+  { icon: Phone, label: 'Teléfono', value: '+58 412-3456789', href: 'tel:+34600000000' },
+  { icon: MessageCircle, label: 'WhatsApp', value: '+58 412-3456789', href: 'https://wa.me/34600000000' },
+  { icon: Mail, label: 'Email', value: 'info@restaurantokcosecha.com', href: 'mailto:info@tucomidavenezolana.com' },
+  { icon: MapPin, label: 'Ubicación', value: 'Zulia, Maracaibo', href: '#' },
 ];
 
 export function ContactSection() {

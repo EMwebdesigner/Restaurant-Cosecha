@@ -36,9 +36,9 @@ export function Navbar() {
     >
       <div className="container mx-auto px-4 flex items-center justify-between">
         <a href="#inicio" className="flex items-center gap-2">
-          <img src={logo} alt="Tu Comida Venezolana" className="h-12 w-12 object-contain" />
+          <img src={logo} alt="Restaurant Ok Cosecha" className="h-12 w-12 object-contain" />
           <span className="hidden md:block text-primary-foreground font-bold text-lg">
-            Tu Comida Venezolana
+            Restaurant Ok Cosecha
           </span>
         </a>
 

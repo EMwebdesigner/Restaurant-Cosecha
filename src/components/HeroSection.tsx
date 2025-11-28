@@ -44,12 +44,12 @@ export function HeroSection() {
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
         <img
           src={logo}
-          alt="Tu Comida Venezolana"
+          alt="Restaurant Ok Cosecha"
           className="w-32 h-32 md:w-40 md:h-40 mx-auto mb-6 animate-hero-title drop-shadow-2xl rounded-full"
         />
         
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-black uppercase tracking-tight mb-4 animate-hero-title text-shadow-lg text-primary-foreground">
-          Tu Comida <span className="text-accent">Venezolana</span>
+          Restaurant <span className="text-accent"><br />Ok Cosecha</span>
         </h1>
         
         <p className="text-lg md:text-2xl mb-8 animate-hero-subtitle text-primary-foreground/90 text-shadow max-w-2xl mx-auto">

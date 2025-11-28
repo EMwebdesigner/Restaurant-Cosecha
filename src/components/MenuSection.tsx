@@ -9,9 +9,9 @@ const menuItems = [
     image: menuArroz,
     description: 'Nuestro famoso arroz frito con pollo, cerdo, camarones, vegetales frescos y el toque especial venezolano.',
     sizes: [
-      { name: 'Personal', price: '€8.50' },
-      { name: 'Mediano', price: '€12.00' },
-      { name: 'Familiar', price: '€18.00' },
+      { name: 'Personal', price: '8.50$' },
+      { name: 'Mediano', price: '12.00$' },
+      { name: 'Familiar', price: '18.00$' },
     ],
   },
   {
@@ -19,9 +19,9 @@ const menuItems = [
     image: menuTequenos,
     description: 'Crujientes palitos de masa rellenos de queso derretido, preparados artesanalmente al momento.',
     sizes: [
-      { name: '6 unidades', price: '€5.00' },
-      { name: '12 unidades', price: '€9.00' },
-      { name: '24 unidades', price: '€16.00' },
+      { name: '6 unidades', price: '5.00$' },
+      { name: '12 unidades', price: '9.00$' },
+      { name: '24 unidades', price: '16.00$' },
     ],
   },
 ];

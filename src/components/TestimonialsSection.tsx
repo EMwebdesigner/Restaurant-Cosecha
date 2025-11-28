@@ -5,27 +5,27 @@ import { cn } from '@/lib/utils';
 const testimonials = [
   {
     name: 'María González',
-    text: '¡El mejor arroz chino que he probado fuera de Venezuela! Me transportó directamente a mi infancia. Totalmente recomendado.',
+    text: '¡El mejor arroz chino que he probado en Venezuela! Me transportó directamente a mi infancia. Totalmente recomendado.',
     rating: 5,
-    location: 'Madrid',
+    location: 'Valencia',
   },
   {
     name: 'Carlos Rodríguez',
     text: 'Los tequeños están increíbles, crujientes por fuera y con queso derretido por dentro. Ya soy cliente frecuente.',
     rating: 5,
-    location: 'Barcelona',
+    location: 'Merida',
   },
   {
     name: 'Ana Martínez',
     text: 'Pedí el combo familiar para una reunión y todos quedaron encantados. Llegó caliente y en perfecto estado.',
     rating: 5,
-    location: 'Valencia',
+    location: 'Coro',
   },
   {
     name: 'Pedro Sánchez',
     text: 'Excelente servicio y sabor auténtico. Los precios son muy justos para la calidad que ofrecen.',
     rating: 5,
-    location: 'Sevilla',
+    location: 'Caracas',
   },
 ];
 

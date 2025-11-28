@@ -11,7 +11,7 @@ const combos = [
     title: 'Combo Personal',
     image: combo1,
     items: ['Arroz Chino Personal', '6 Tequeños', 'Bebida'],
-    price: '€12.50',
+    price: '12.50$',
     popular: false,
   },
   {
@@ -19,7 +19,7 @@ const combos = [
     title: 'Combo Pareja',
     image: combo2,
     items: ['Arroz Chino Mediano', '12 Tequeños', '2 Bebidas'],
-    price: '€22.00',
+    price: '22.00$',
     popular: true,
   },
   {
@@ -27,7 +27,7 @@ const combos = [
     title: 'Combo Familiar',
     image: menuTequenos,
     items: ['Arroz Chino Familiar', '24 Tequeños', '4 Bebidas'],
-    price: '€38.00',
+    price: '34.00$',
     popular: false,
   },
 ];
